@@ -13,6 +13,7 @@
 - docsify：https://docsify.js.org/
 - github：https://github.com/
 - Koishi：https://koishi.chat
+- 小喵网盘:http://119.188.247.121:41331
 
 ### 作者介绍
 
