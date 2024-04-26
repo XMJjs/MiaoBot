@@ -36,12 +36,17 @@
         // 搜索标题的最大程级, 1 - 6
         depth: 3,
       },
+        // docsify-copy-code (defaults)
+  copyCode: {
+    buttonText: 'Copy to clipboard',
+    errorText: 'Error',
+    successText: 'Copied',
+  },
       //分页
       pagination: {
     previousText: '上一章节',
     // or
     nextText: '下一章节',
-    },
     crossChapter: true,
     crossChapterText: true,
   },
@@ -64,6 +69,8 @@
   <script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
   <!-- 分页导航 -->
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- Latest v2.x.x -->
+  <script src="https://unpkg.com/docsify-copy-code@2"></script>
   <!-- 代码即时预览和 jsfiddle 集成 -->
   <script src="//unpkg.com/vue/dist/vue.js"></script>
   <script src="https://unpkg.com/docsify-demo-box-vue@{version}/dist/docsify-demo-box-vue.min.js"></script>
