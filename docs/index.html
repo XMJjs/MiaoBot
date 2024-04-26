@@ -14,6 +14,7 @@
 
 <body>
   <div id="app"></div>
+  <div data-app id="main">Please wait...</div>
   <!-- docsify-edit-on-github -->
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
@@ -26,7 +27,14 @@
       homepage: 'README.md',
       coverpage: true,
       loadSidebar: true,
+      el: '#main',
       auto2top: true,//切换页面后是否自动跳转到页面顶部
+      //进度条
+      progress: {
+        position: "top",
+        color: "var(--theme-color,#42b983)",
+        height: "3px",
+    }
       //全文搜索
       search: {
         //maxAge: 86400000, // 过期时间，单位毫秒，默认一天
@@ -41,6 +49,7 @@
       ],
     }
   </script>
+  
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <!--Java代码高亮-->
   <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
@@ -54,6 +63,8 @@
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
   <!-- 外链脚本 -->
   <script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
+  <!-- 进度条 -->
+  <script src="//unpkg.com/docsify-progress@latest/dist/progress.min.js"></script>
   <!-- 分页导航 -->
 
   <!-- 代码即时预览和 jsfiddle 集成 -->
