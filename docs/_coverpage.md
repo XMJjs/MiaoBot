@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">小喵Bot_说明文档</h1>
 
-[#待定_XMJ个人主页](/)
+[XMJ个人主页](https://lingxmj.top)
 [Koishi](https://koishi.chat)
 [开始阅读](#小喵Bot)
 
