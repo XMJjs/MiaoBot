@@ -1,19 +1,17 @@
 # 小喵Bot
+——————————
+
+[前往阅读文档](https://xmjjs.github.io/MiaoBot)
 
 ——————————
 
-<font size=10>[前往阅读文档](/docs/a-1项目介绍)</font>
-
-——————————
-
-[#待定_XMJ个人主页](/)
+[XMJ的个人主页](https://lingxmj.top)
 
 ### 友情链接
 
 - docsify：https://docsify.js.org/
 - github：https://github.com/
 - Koishi：https://koishi.chat
-- 小喵网盘:http://119.188.247.121:41331
 
 ### 作者介绍
 
