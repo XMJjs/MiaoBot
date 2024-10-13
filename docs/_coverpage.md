@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img2.imgtp.com/2024/03/16/W94p4aKq.jpg" width="200" height="200"/>
+<img src="https://q1.qlogo.cn/g?b=qq&nk=2854205012&s=640" width="200" height="200"/>
 </p>
 <h1 align="center">小喵Bot_说明文档</h1>
 
