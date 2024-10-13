@@ -11,6 +11,7 @@
 ### 作者介绍
 
 **作者介绍:**  XMJ(Mirror)  **小喵Bot** 作者。
+
 [QQ3078780148](tencent://message/?uin=307878014)
 
-![](https://img2.imgtp.com/2024/03/16/W94p4aKq.jpg)
+![](https://q1.qlogo.cn/g?b=qq&nk=3078780148&s=640)
