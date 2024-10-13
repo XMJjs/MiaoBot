@@ -1,7 +1,7 @@
 # 小喵Bot
 ——————————
 
-[前往阅读文档](https://xmjjs.github.io/MiaoBot)
+# [点我前往阅读](/docs/a-1项目介绍)
 
 ——————————
 
