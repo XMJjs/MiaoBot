@@ -1,17 +1,12 @@
-# 小喵Bot
+# 这是小喵Bot的官方使用文档
 ——————————
 
-[前往阅读文档](https://xmjjs.github.io/MiaoBot)
+## [前往阅读文档](https://xmjjs.github.io/MiaoBot)
 
 ——————————
 
 [XMJ的个人主页](https://lingxmj.top)
 
-### 友情链接
-
-- docsify：https://docsify.js.org/
-- github：https://github.com/
-- Koishi：https://koishi.chat
 
 ### 作者介绍
 
